@@ -1,6 +1,6 @@
-# Javascript Jokes °•
+# Javascript Jokes °• <img align="left" alt="javascript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 
-#### Send me a PR if you know a good ( or horible ) <img align="left" alt="javascript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" /> Joke.
+#### Send me a PR if you know a good ( or horible ) Joke.
 
 > submit your own, if they make me laugh I'll merge them and post it on codingvalley's insta page
 
@@ -46,7 +46,7 @@ It's just like , CAR and CARPET(CAR-pet) {JAVA and JAVA-script)
 
 ---
 
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" /> is :love:
+<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" /> is :heart:
 
 ---
 
