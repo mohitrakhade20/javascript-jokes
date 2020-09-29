@@ -1,8 +1,10 @@
 # Javascript Jokes °•
 
-#### Send me a PR if you know a good ( or horible ) [<img align="left" alt="javascript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />] Joke.
+#### Send me a PR if you know a good ( or horible ) <img align="left" alt="javascript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" /> Joke.
 
 > submit your own, if they make me laugh I'll merge them and post it on codingvalley's insta page
+
+[![Coding Valley](https://img.shields.io/badge/-Coding_Valley-black)][website]
 
 ---
 
@@ -44,6 +46,8 @@ It's just like , CAR and CARPET(CAR-pet) {JAVA and JAVA-script)
 
 ---
 
-respect [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />]
+<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" /> is :love:
 
 ---
+
+[website]: https://www.instagram.com/coding_valley_/
