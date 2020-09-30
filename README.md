@@ -51,6 +51,13 @@ Question: What are the similarities between java and javascript?
 It's just like , CAR and CARPET(CAR-pet) {JAVA and JAVA-script)
 
 ---
+Question: Why do programmers always mix up Halloween and Christmas?
+Because Oct 31 == Dec 25!
+
+---
+A guy walks into a bar and asks for 1.014 root beers.
+The bartender says, “I’ll have to charge you extra, that’s a root beer float”.
+So the guy says, “In that case, better make it a double.”
 
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />is :heart:
 
