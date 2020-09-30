@@ -57,3 +57,6 @@ It's just like , CAR and CARPET(CAR-pet) {JAVA and JAVA-script)
 ---
 
 [website]: https://www.instagram.com/coding_valley_/
+
+### Question -  Why was the JavaScript developer sad? 
+a. Because he didn't Node how to Express himself
