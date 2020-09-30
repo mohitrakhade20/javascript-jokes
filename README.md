@@ -29,9 +29,17 @@ My girlfriend dumped me after I named a class after her. She felt I treated her 
 
 ---
 
+Sometimes when I'm writing Javascript I want to throw up my hands and say "this is bullshit!" but I can never remember what "this" refers to
+
+---
+
 ### Question - Why did the react class component feel relieved?
 
 Because it was now off the hook.
+
+---
+
+There is no time to sharpen the saw, it is necessary to saw wood (about technical debt and manager's rush).
 
 ---
 
@@ -40,17 +48,21 @@ Because it was now off the hook.
 Trouble-shooting!
 
 ---
+
 Don't trust javascript programmers
 All they do is promises but they never callback.
 
 ---
+
 if human being evovled new organs as frequently as they do javascript framework, you can bet the doctors would be googling it too
 
 ---
+
 Question: What are the similarities between java and javascript?
 It's just like , CAR and CARPET(CAR-pet) {JAVA and JAVA-script)
 
 ---
+
 
 ---
 Question: How do you cheer up a JS developer?
@@ -58,6 +70,11 @@ Question: How do you cheer up a JS developer?
 You "Console" them!
 
 ----
+
+Me: Try console.log(console) in chrome console and explore the console 😎
+
+---
+
 
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />is :heart:
 
