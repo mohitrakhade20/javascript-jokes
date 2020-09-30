@@ -46,13 +46,13 @@ There is no time to sharpen the saw, it is necessary to saw wood (about technica
 
 ---
 
-Q: Which type of shooting always hurt the shooter?
+Q: Which type of shooting always hurts the shooter?
 
 A: Trouble-shooting!
 
 ---
 
-Don't trust javascript programmers.   
+Don't trust JavaScript programmers.   
 All they do is promises but they never callback.
 
 ---
