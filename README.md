@@ -1,3 +1,4 @@
+
 # Javascript Jokes °• <img align="left" alt="javascript" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 
 #### Send me a PR if you know a good ( or horible ) Joke.
@@ -44,6 +45,9 @@ Don't trust javascript programmers
 All they do is promises but they never callback.
 
 ---
+### Question -  Why was the JavaScript developer sad? 
+a. Because he didn't Node how to Express himself
+---
 if human being evovled new organs as frequently as they do javascript framework, you can bet the doctors would be googling it too
 
 ---
@@ -58,5 +62,4 @@ It's just like , CAR and CARPET(CAR-pet) {JAVA and JAVA-script)
 
 [website]: https://www.instagram.com/coding_valley_/
 
-### Question -  Why was the JavaScript developer sad? 
-a. Because he didn't Node how to Express himself
+
