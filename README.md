@@ -29,6 +29,10 @@ My girlfriend dumped me after I named a class after her. She felt I treated her 
 
 ---
 
+Sometimes when I'm writing Javascript I want to throw up my hands and say "this is bullshit!" but I can never remember what "this" refers to
+
+---
+
 ### Question - Why did the react class component feel relieved?
 
 Because it was now off the hook.
