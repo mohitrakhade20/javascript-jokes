@@ -44,15 +44,22 @@ There is no time to sharpen the saw, it is necessary to saw wood (about technica
 Trouble-shooting!
 
 ---
+
 Don't trust javascript programmers
 All they do is promises but they never callback.
 
 ---
+
 if human being evovled new organs as frequently as they do javascript framework, you can bet the doctors would be googling it too
 
 ---
+
 Question: What are the similarities between java and javascript?
 It's just like , CAR and CARPET(CAR-pet) {JAVA and JAVA-script)
+
+---
+
+Me: Try console.log(console) in chrome console and explore the console 😎
 
 ---
 
