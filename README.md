@@ -35,6 +35,10 @@ Because it was now off the hook.
 
 ---
 
+There is no time to sharpen the saw, it is necessary to saw wood (about technical debt and manager's rush).
+
+---
+
 ### Question - Which type of shooting always hurt the shooter?
 
 Trouble-shooting!
