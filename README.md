@@ -62,7 +62,8 @@ Question: What are the similarities between java and javascript?
 It's just like , CAR and CARPET(CAR-pet) {JAVA and JAVA-script)
 
 ---
-
+q. Why did the CoffeeScript developer keep getting lost? 
+a. Because he couldn't find his source without a map
 
 ---
 Question: How do you cheer up a JS developer?
