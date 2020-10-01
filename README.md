@@ -165,6 +165,14 @@ Question : Whats the difference between Git and Github
 
 Answer : The same as Porn and Pornhub .
 
+Question : Why did the jQuery developer never have financial problems? 
+
+Answer : Because he was in $.noConflict() mode
+
+Question : Why was the JavaScript developer sad?
+
+Answer : Because he didn't Node how to Express himself.
+
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />is :heart:
 
 [website]: https://www.instagram.com/coding_valley_/
