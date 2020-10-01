@@ -81,6 +81,42 @@ Me: Try console.log(console) in chrome console and explore the console 😎
 
 ---
 
+Q: Why did the hungry dev multiply a string by an integer?
+
+A: He wanted some NaN bread
+
+----
+
+Q: Why are 'i' and 'j' a good source of information?
+
+A: They're always in the loop
+
+----
+
+Q: What does a JavaScript developer have in his tea?
+
+A: Syntactic sugar
+
+----
+
+Mathematician vs Programmers
+
+`x^2=0`
+
+Mathematician: x=0
+
+Programmer: x==2
+
+JavaScript Programmer: x===2
+
+----
+
+Q: Why are JavaScript developers hated?
+
+A: They overreact.
+
+---
+
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />is :heart:
 
 [website]: https://www.instagram.com/coding_valley_/
