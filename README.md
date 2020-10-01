@@ -80,6 +80,25 @@ You "Console" them!
 Me: Try console.log(console) in chrome console and explore the console 😎
 
 ---
+I and JavaScript in a Console:
+
+Me: `0 == "0"`?
+
+JS: `true`
+
+
+Me: `0 == []`?
+
+JS: `true`
+
+
+Me: If `0 == "0"` and `0 == []` are `true`, so  `"0" == []`?
+
+JS: `false`
+
+ME: :cursing_face:
+
+---
 
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />is :heart:
 
