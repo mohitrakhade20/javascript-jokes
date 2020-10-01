@@ -81,6 +81,22 @@ Me: Try console.log(console) in chrome console and explore the console 😎
 
 ---
 
+
+Question: Why did the programmers quit?
+
+Answer: Because they didn’t get arrays.
+
+---
+
+Question: What's Your Idea of a Perfect Date?
+
+Answer: YYYY-MM-DD,
+		
+		I find other Formates confusing.
+
+---
+
+
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />is :heart:
 
 [website]: https://www.instagram.com/coding_valley_/
