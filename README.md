@@ -10,6 +10,12 @@
 
 ---
 
+Riddhi: I :heart: JavaScript.
+
+Mohit:  But, **this** is horrible.
+
+---
+
 Q: Why did the child component have such great self-esteem?
 
 A: Because its parent kept giving it props!
