@@ -208,3 +208,32 @@ I have a HTTP joke but if I POST it here then you will not GET it.
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />is :heart:
 
 [website]: https://www.instagram.com/coding_valley_/
+
+---
+
+Q. Why was the JavaScript developer sad?
+Because he didn't Node how to Express himself
+
+---
+ 
+Q. JavaScript is a lot like English;
+No one knows how to use semicolons properly.
+
+---
+ 
+Q. Why do JavaScripters wear glasses?
+Because they don't C#
+
+---
+ 
+Q. Don't trust javascript programmers
+All they do is promises but they never callback.
+
+---
+
+Q. What's the difference between Java and JavaScript?
+Java and JavaScript are similar in the same way car and carpet are.
+ 
+ ---
+Q. The three most well known languages in India are English, Hindi, and...
+JavaScript
