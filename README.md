@@ -238,4 +238,9 @@ I have a HTTP joke but if I POST it here then you will not GET it.
 
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />is :heart:
 
+---
+
+Want to hear a JavaScript joke? I'll callback later.
+
+ 
 [website]: https://www.instagram.com/coding_valley_/
