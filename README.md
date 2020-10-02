@@ -16,6 +16,32 @@ Mohit: But, **this** is horrible.
 
 ---
 
+programmer : `0=="0"`
+
+JS : true
+
+programmer: `0==[]`
+
+JS :true
+
+programmer : Ok so `"0"==[]` right? Makes sense to me..
+
+JS : false
+
+programmer : GET OUT!
+
+---
+
+Java is to JavaScript as Corona is to Corona Virus.
+
+---
+
+Two JavaScript variables are in a bar.
+"I'm sorry I cannot be with you, your so not my Type.", one says.
+The other Recasts and they lived happily ever after.
+
+---
+
 Q: Why did the child component have such great self-esteem?
 
 A: Because its parent kept giving it props!
