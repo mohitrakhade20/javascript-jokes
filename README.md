@@ -8,8 +8,6 @@
 
 ## Jokes
 
-
-
 Riddhi: I :heart: JavaScript.
 
 Mohit: But, **this** is horrible.
@@ -193,15 +191,19 @@ A: The same as Porn and Pornhub .
 
 ---
 
-Q: Why did the jQuery developer never have financial problems? 
+Q: Why did the jQuery developer never have financial problems?
 
-A: Because he was in $.noConflict() mode
+A: Because he was in \$.noConflict() mode
 
 ---
 
 Q: Why was the JavaScript developer sad?
 
 A: Because he didn't Node how to Express himself.
+
+---
+
+I have a HTTP joke but if I POST it here then you will not GET it.
 
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />is :heart:
 
