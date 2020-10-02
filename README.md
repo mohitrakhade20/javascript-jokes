@@ -143,15 +143,15 @@ A: They overreact.
 
 ---
 
-Question: Why did the programmers quit?
+Q: Why did the programmers quit?
 
-Answer: Because they didn’t get arrays.
+A: Because they didn’t get arrays.
 
 ---
 
-Question: What's Your Idea of a Perfect Date?
+Q: What's Your Idea of a Perfect Date?
 
-Answer: YYYY-MM-DD,
+A: YYYY-MM-DD,
 I find other Formates confusing.
 
 ---
@@ -161,17 +161,21 @@ crime movie where you're also the murderer.
 
 ---
 
-Question : Whats the difference between Git and Github
+Q: Whats the difference between Git and Github
 
-Answer : The same as Porn and Pornhub .
+A: The same as Porn and Pornhub .
 
-Question : Why did the jQuery developer never have financial problems? 
+---
 
-Answer : Because he was in $.noConflict() mode
+Q: Why did the jQuery developer never have financial problems? 
 
-Question : Why was the JavaScript developer sad?
+A: Because he was in $.noConflict() mode
 
-Answer : Because he didn't Node how to Express himself.
+---
+
+Q: Why was the JavaScript developer sad?
+
+A: Because he didn't Node how to Express himself.
 
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />is :heart:
 
