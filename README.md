@@ -29,6 +29,8 @@ JS : false
 programmer : GET OUT!
 
 ---
+JavaScript makes me want to flip the table and say "Fuck this shit", but I can never be sure what "this" refers to
+---
 
 Java is to JavaScript as Corona is to Corona Virus.
 
