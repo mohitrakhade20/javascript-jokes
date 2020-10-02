@@ -236,6 +236,12 @@ Q. The three most well known languages in India are English, Hindi, and...
 JavaScript makes me want to flip the table and say "Fuck this shit", but I can never be sure what "this" refers to
 
 ---
+Drinking game for web devs:
+(1) Think of a noun
+(2) Google "< noun> js"
+(3) If a library with that name exists - drink
+
+---
 
 I have a HTTP joke but if I POST it here then you will not GET it.
 
