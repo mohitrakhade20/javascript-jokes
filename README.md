@@ -29,8 +29,6 @@ JS : false
 programmer : GET OUT!
 
 ---
-JavaScript makes me want to flip the table and say "Fuck this shit", but I can never be sure what "this" refers to
----
 
 Java is to JavaScript as Corona is to Corona Virus.
 
@@ -233,6 +231,9 @@ Q. What's the difference between Java and JavaScript?
 
 Q. The three most well known languages in India are English, Hindi, and...
    JavaScript
+
+---
+JavaScript makes me want to flip the table and say "Fuck this shit", but I can never be sure what "this" refers to
 
 ---
 
