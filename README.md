@@ -1,4 +1,4 @@
-# JavaScript Jokes °• <img align="left" alt="javascript" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+﻿# JavaScript Jokes °• <img align="left" alt="javascript" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 
 #### Send me a PR if you know a good (or horrible) joke!
 
@@ -120,6 +120,12 @@ A: They overreact.
 Q: Why did the jQuery developer never have financial problems?
 
 A: Because he was in \$.noConflict() mode
+
+---
+
+Q: What did Java say to his son?
+
+A: You're a script, kiddie
 
 ---
 
