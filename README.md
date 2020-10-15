@@ -154,6 +154,12 @@ Q. The three most well known languages in India are English, Hindi, and...
 
 ---
 
+Q. You want to hear a javascript joke?
+
+A. I'll callback later.
+
+---
+
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />is :heart:
 
 ---
