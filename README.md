@@ -175,5 +175,7 @@ Programming is like sex: One mistake and you have to support it for the rest of 
 
 Want to hear a JavaScript joke? I'll callback later.
 
+---
+This was a good idea to compile a bunch of Javascript jokes. Unfortunately, they need to be interpreted. 
  
 [website]: https://www.instagram.com/coding_valley_/
