@@ -159,6 +159,15 @@ Q. You want to hear a javascript joke?
 A. I'll callback later.
 
 ---
+Q.How did the programmer die in the shower?
+A. He read the shampoo bottle instructions: Lather. Rinse. Repeat.
+
+---
+Q.Why do programmers always mix up Halloween and Christmas?
+A.Because Oct 31 equals Dec 25.
+
+---
+Programming is like sex: One mistake and you have to support it for the rest of your life.
 
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />is :heart:
 
