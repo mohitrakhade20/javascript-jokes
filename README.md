@@ -175,5 +175,9 @@ Programming is like sex: One mistake and you have to support it for the rest of 
 
 Want to hear a JavaScript joke? I'll callback later.
 
- 
+---
+Me: Why isn't this working? thinking Normal Language: You screwed up over here. monocle_face Me: Oh Thanks! +1
+
+Me: Why isn't this working? thinking JavaScript: SHHHHHH! shushing_face
+
 [website]: https://www.instagram.com/coding_valley_/
