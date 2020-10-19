@@ -158,6 +158,13 @@ Q. You want to hear a javascript joke?
 
 A. I'll callback later.
 
+
+---
+
+Q: Why you should date a javascript developer?
+
+A: Because they always callback.
+
 ---
 Q.How did the programmer die in the shower?
 A. He read the shampoo bottle instructions: Lather. Rinse. Repeat.
