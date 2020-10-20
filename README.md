@@ -182,5 +182,12 @@ Programming is like sex: One mistake and you have to support it for the rest of 
 
 Want to hear a JavaScript joke? I'll callback later.
 
+---
+One question on Reddit:
+Redditors that speak multiple languages, what languages do you speakin your dreams?
+A: JavaScript
+Comment: He said dreams, not nightmares
+
+---
  
 [website]: https://www.instagram.com/coding_valley_/
