@@ -30,9 +30,19 @@ programmer : GET OUT!
 
 ---
 
+
+q. Why was the JavaScript developer sad? a. Because they didn't Node how to Express himself
+
+---
+
+dev1 > What tool do you use to switch versions of node? dev1> nvm, I figured it out.
+
+---
+
 q. How do you comfort a JavaScript bug? a. You console it
 
 ---
+
 
 Two JavaScript variables are in a bar.
 "I'm sorry I cannot be with you, your so not my Type.", one says.
