@@ -30,9 +30,6 @@ programmer : GET OUT!
 
 ---
 
-Java is to JavaScript as Corona is to Corona Virus.
-
----
 
 Two JavaScript variables are in a bar.
 "I'm sorry I cannot be with you, your so not my Type.", one says.
