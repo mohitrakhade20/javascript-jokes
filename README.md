@@ -127,6 +127,26 @@ A: They overreact.
 
 ---
 
+q. Why did the child component have such great self-esteem? a. Because its parent kept giving it props!
+   
+---
+
+q. Why did the functional component feel lost? a. Because it didn't know what state it was in!
+
+---
+
+q. Why did the React Higher Order Component give up? a. Because it sur-rendered to the prop-aganda!
+
+---
+
+q. Why did the react class component feel relieved? a. Because it was now off the hook.
+
+---
+
+q. Why couldn’t the React component understand the joke? a. Because it didn’t get the context.
+
+---
+
 Q: Why did the jQuery developer never have financial problems?
 
 A: Because he was in \$.noConflict() mode
