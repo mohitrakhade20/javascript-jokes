@@ -30,6 +30,9 @@ programmer : GET OUT!
 
 ---
 
+q. How do you comfort a JavaScript bug? a. You console it
+
+---
 
 Two JavaScript variables are in a bar.
 "I'm sorry I cannot be with you, your so not my Type.", one says.
