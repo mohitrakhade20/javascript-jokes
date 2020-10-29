@@ -219,5 +219,18 @@ A: JavaScript
 Comment: He said dreams, not nightmares
 
 ---
- 
+
+There are two type of people :
+```javascript
+if (condition) {
+   Statement
+} 
+
+if (condition) 
+{
+   Statement
+} 
+```
+
+---
 [website]: https://www.instagram.com/coding_valley_/
