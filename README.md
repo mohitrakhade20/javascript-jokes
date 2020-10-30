@@ -219,5 +219,11 @@ A: JavaScript
 Comment: He said dreams, not nightmares
 
 ---
+
+Q. What's 0.1+0.2 ?
+
+A. It's 0.30000000000000004
+
+---
  
 [website]: https://www.instagram.com/coding_valley_/
