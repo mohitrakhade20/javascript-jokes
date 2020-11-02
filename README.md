@@ -233,4 +233,17 @@ if (condition)
 ```
 
 ---
+=======
+Q. What's 0.1+0.2 ?
+
+A. It's 0.30000000000000004
+
+---
+
+Q. Why do Javascript developers prefer dark mode?
+A. Because light attracts bugs! 
+(and it's enough with the illogical parts of the language)
+
+---
+ 
 [website]: https://www.instagram.com/coding_valley_/
