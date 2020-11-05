@@ -220,6 +220,20 @@ Comment: He said dreams, not nightmares
 
 ---
 
+There are two type of people :
+```javascript
+if (condition) {
+   Statement
+} 
+
+if (condition) 
+{
+   Statement
+} 
+```
+
+---
+=======
 Q. What's 0.1+0.2 ?
 
 A. It's 0.30000000000000004
