@@ -66,7 +66,7 @@ A: Because it was now off the hook.
 
 ---
 
-Don't trust JavaScript programmers.  
+Don't trust JavaScript programmers.
 All they do is promises but they never callback.
 
 ---
@@ -128,7 +128,7 @@ A: They overreact.
 ---
 
 q. Why did the child component have such great self-esteem? a. Because its parent kept giving it props!
-   
+
 ---
 
 q. Why did the functional component feel lost? a. Because it didn't know what state it was in!
@@ -164,17 +164,17 @@ Q: Why was the JavaScript developer sad?
 A: Because he didn't Node how to Express himself.
 
 ---
- 
+
 Q. JavaScript is a lot like English;
   No one knows how to use semicolons properly.
 
 ---
- 
+
 Q. Why do JavaScripters wear glasses?
    Because they don't C#
 
 ---
- 
+
 Q. Don't trust javascript programmers
    All they do is promises but they never callback.
 
@@ -182,7 +182,7 @@ Q. Don't trust javascript programmers
 
 Q. What's the difference between Java and JavaScript?
    Java and JavaScript are similar in the same way car and carpet are.
- 
+
  ---
 
 Q. The three most well known languages in India are English, Hindi, and...
@@ -235,12 +235,12 @@ There are two type of people :
 ```javascript
 if (condition) {
    Statement
-} 
+}
 
-if (condition) 
+if (condition)
 {
    Statement
-} 
+}
 ```
 
 ---
@@ -252,9 +252,13 @@ A. It's 0.30000000000000004
 ---
 
 Q. Why do Javascript developers prefer dark mode?
-A. Because light attracts bugs! 
+A. Because light attracts bugs!
 (and it's enough with the illogical parts of the language)
 
 ---
- 
+
+Idempotency happens to Functions that sets values over 40 times. But the results are always the same, and you may be entitled to a financial compensation.
+
+---
+
 [website]: https://www.instagram.com/coding_valley_/
