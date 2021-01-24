@@ -1,0 +1,192 @@
+
+
+.emoji {
+  width: 120px;
+  height: 120px;
+  margin: 15px 15px 40px;
+  background: #FFDA6A;
+  display: inline-block;
+  border-radius: 50%;
+  position: relative;
+  
+  &:after {
+    position: absolute;
+    bottom: -40px;
+    font-size: 18px;
+    width: 60px;
+    left: calc(50% - 30px);
+    color: #8A8A8A;  
+  }
+}
+
+.emoji__face, .emoji__eyebrows, .emoji__eyes, .emoji__mouth, .emoji__tongue, .emoji__heart, .emoji__hand, .emoji__thumb {
+  position: absolute;
+  
+  &:before, &:after {
+    position: absolute;
+    content: '';
+  }  
+}
+
+.emoji__face {
+  width: inherit;
+  height: inherit;
+}
+
+
+.emoji--haha {
+  &:after {
+    content: 'Haha';
+  }
+
+  .emoji__face {
+    animation: haha-face 2s linear infinite;
+  }
+  
+  .emoji__eyes {
+    width: 26px;
+    height: 6px;
+    border-radius: 2px;
+    left: calc(50% - 13px);
+    top: 35px;
+    transform: rotate(20deg);
+    background: transparent;
+    box-shadow: -25px 5px 0 0 #000000,  25px -5px 0 0 #000000;
+    
+    &:after {
+      left: 0;
+      top: 0;
+      width: 26px;
+      height: 6px;
+      border-radius: 2px;
+      transform: rotate(-40deg);
+      background: transparent;
+      box-shadow: -25px -5px 0 0 #000000,  25px 5px 0 0 #000000;
+    }
+  }
+  
+  .emoji__mouth {
+    width: 80px;
+    height: 40px;
+    left: calc(50% - 40px);
+    top: 50%;
+    background: #000000;
+    border-radius: 0 0 40px 40px;
+    overflow: hidden;
+    z-index: 1;  
+    animation: haha-mouth 2s linear infinite;
+  }
+ 
+  .emoji__tongue {
+    width: 70px;
+    height: 30px;
+    background: #F55064;
+    left: calc(50% - 35px);
+    bottom: -10px;
+    border-radius: 50%;  
+  }  
+}
+
+.emoji--angry {
+  background: linear-gradient(#D5234C -10%, #FFDA6A);
+  background-size: 100%;
+  animation: angry-color 2s ease-in infinite;
+  left: 1px;
+  top: -1px;
+  
+  &:after {
+    content: 'Angry';
+  }
+
+  .emoji__face {
+    animation: angry-face 2s ease-in infinite;
+  }  
+
+  .emoji__eyebrows {
+    left: calc(50% - 3px);
+    top: 55px;
+    height: 6px;
+    width: 6px;
+    border-radius: 50%;
+    background: transparent;
+    box-shadow: -44px 5px 0 0 #000000, -7px 16px 0 0 #000000, 7px 16px 0 0 #000000, 44px 5px 0 0 #000000, ;
+    
+    &:before, &:after {
+      width: 50px;
+      height: 20px;
+      border: 6px solid #000000;
+      box-sizing: border-box;
+      border-radius: 50%;
+      border-top-color: transparent;
+      border-left-color: transparent;
+      border-right-color: transparent;
+      top: 0;
+      left: calc(50% - 25px);  
+    }
+
+    &:before {
+      margin-left: -25px;
+      transform: rotate(15deg);  
+    }
+
+    &:after {
+      margin-left: 25px;
+      transform: rotate(-15deg);
+    }
+  }
+  
+  .emoji__eyes {
+    width: 12px;
+    height: 12px;
+    left: calc(50% - 6px);
+    top: 70px;
+    border-radius: 50%;
+    background: transparent;
+    box-shadow: 25px 0 0 0 #000000, -25px 0 0 0 #000000;
+  }
+  
+  .emoji__mouth {
+    width: 36px;
+    height: 18px;
+    left: calc(50% - 18px);
+    bottom: 15px;
+    background:#000000;
+    border-radius: 50%;
+    animation: angry-mouth 2s ease-in infinite;
+  }  
+}
+
+@keyframes heart-beat {
+  25% {transform: scale(1.1);}
+  75% {transform: scale(0.6);}
+}
+@keyframes haha-face {
+  10%, 30%, 50% {transform: translateY(25px);}
+  20%, 40% {transform: translateY(15px);}
+  60%, 80% {transform: translateY(0);}
+  70%, 90% {transform: translateY(-10px);}
+}
+
+@keyframes haha-mouth {
+  10%, 30%, 50% {transform: scale(0.6); top: 45%;}
+  20%, 40% {transform: scale(0.8); top: 45%;}
+  60%, 80% {transform: scale(1); top: 50%;}
+  70% {transform: scale(1.2); top: 50%;}
+  90% {transform: scale(1.1); top: 50%;}
+}
+
+
+@keyframes angry-color {
+  45%, 60% {background-size: 250%;}
+  85%, 100%, 0% {background-size: 100%;}
+}
+
+@keyframes angry-face {
+  35%, 60% {transform: translateX(0) translateY(10px) scale(0.9);}
+  40%, 50% {transform: translateX(-5px) translateY(10px) scale(0.9);}
+  45%, 55% {transform: translateX(5px) translateY(10px) scale(0.9);}
+}
+
+@keyframes angry-mouth {
+  25%, 50% {height: 6px; bottom: 25px;}
+}
