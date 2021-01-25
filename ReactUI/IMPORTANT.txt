@@ -1,0 +1,4 @@
+To add any new joke to the web page just edit src/Data/data.js
+    Add new object with the following format: {id:joke_id,joke:new_joke},
+    It will automatically rendered to the page.
+Screenshots from local run were attached
