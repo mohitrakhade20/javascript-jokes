@@ -17,3 +17,8 @@ The three most well known languages in India are English, Hindi, and...
 JavaScript
 
 JAVA is to JavaScript as CORONA is to Coronavirus
+
+Me : true == 1
+JS : true
+Me : true === 1
+JS : false
