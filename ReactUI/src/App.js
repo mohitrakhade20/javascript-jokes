@@ -1,8 +1,7 @@
-import Jokes from './components/Jokes';
+import Jokes from "./components/Jokes";
 
 function App() {
-  return (<Jokes/>
-  );
+  return <Jokes />;
 }
 
 export default App;
