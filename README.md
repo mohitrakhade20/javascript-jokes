@@ -30,7 +30,7 @@ programmer : Ok so `"0"==[]` right? Makes sense to me..
 
 JS : false
 
-programmer : GET OUT!
+programmer : GET OUT!..
 
 ---
 
