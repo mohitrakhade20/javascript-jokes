@@ -247,6 +247,9 @@ if (condition)
 }
 ```
 
+"this"
+this is a javascript joke
+
 ---
 =======
 Q. What's 0.1+0.2 ?
