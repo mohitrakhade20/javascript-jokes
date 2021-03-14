@@ -268,4 +268,8 @@ Idempotency happens to Functions that sets values over 40 times. But the results
 
 ---
 
+<img src="https://user-images.githubusercontent.com/73748430/106888894-37014d00-670d-11eb-860c-2c2dced9b0c7.png" width="300">
+
+---
+
 [website]: https://www.instagram.com/coding_valley_/
