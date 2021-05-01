@@ -93,7 +93,7 @@ export const jokes = [
     },
     {
         id:'24',
-        joke:'Q: Why did the jQuery developer never have financial problems?\nA: Because he was in \$.noConflict() mode'
+        joke:'Q: Why did the jQuery developer never have financial problems?\nA: Because he was in $.noConflict() mode'
     },
     {
         id:'25',
