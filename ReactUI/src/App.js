@@ -1,7 +1,11 @@
 import Jokes from "./components/Jokes";
 
 function App() {
-  return <Jokes />;
+  return( 
+  <div>
+    <Jokes />
+  </div>
+  );
 }
 
 export default App;

@@ -1,4 +1,3 @@
-import react from 'react';
 import '../assets/Cards.css'
 import {jokes} from '../Data/data.js';
 import '../assets/emoji.scss';
