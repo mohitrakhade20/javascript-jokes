@@ -16,15 +16,23 @@ body {
 	margin: 0;
 }
 
+.jokes-container {
+	padding-top: 20px;
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+}
+
 .joke {
 	background-color: #fff;
 	border-radius: 10px;
 	box-shadow: 0 10px 10px rgba(0, 0, 0, 0.2);
 	display: flex;
-	max-width: 100%;
+	max-width: 800px;
 	margin: 20px;
 	overflow: hidden;
-	width: 700px;
+	width: 80%;
+
 }
 
 .joke h6 {
@@ -58,13 +66,18 @@ body {
 	cursor: pointer;
 }
 
+.emoji-container {
+	display: flex;
+	justify-content: center;
+}
+
 
 @media screen and (max-width: 480px) {
 
 	.social-panel-container.visible {
 		transform: translateX(0px);
 	}
-	
+
 	.floating-btn {
 		right: 10px;
 	}

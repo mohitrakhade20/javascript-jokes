@@ -1,7 +1,7 @@
 export const jokes = [
     {
         id:'1',
-        joke:'programmer : `0=="0"` \nJS : true \nprogrammer: `0==[]` \n JS :true \nprogrammer : Ok so `"0"==[]` right? Makes sense to me.. \nJS : false programmer : GET OUT!'
+        joke:'programmer : `0=="0"` \nJS : true \nprogrammer: `0==[]` \n JS :true \nprogrammer : Ok so `"0"==[]` right? Makes sense to me.. \nJS : false\nprogrammer : GET OUT!'
     },
     {
         id:'2',
