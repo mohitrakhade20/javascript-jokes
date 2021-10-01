@@ -22,3 +22,10 @@ Me : true == 1
 JS : true
 Me : true === 1
 JS : false
+
+“The best thing about JavaScript jokes is, they can be funny even if they’re sick.
+
+var sick=true;
+if(sick) throw(‘up’);”
+
+Sick, I agree! :D
