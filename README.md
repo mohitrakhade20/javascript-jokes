@@ -272,4 +272,10 @@ Idempotency happens to Functions that sets values over 40 times. But the results
 
 ---
 
+!false
+
+It's funny 'cause it's true!
+
+---
+
 [website]: https://www.instagram.com/coding_valley_/
