@@ -22,3 +22,5 @@ Me : true == 1
 JS : true
 Me : true === 1
 JS : false
+
+When JavaScript devs are asked to revue the code, they overreact and node their head angularily

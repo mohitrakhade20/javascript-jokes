@@ -264,6 +264,10 @@ A. Because light attracts bugs!
 
 ---
 
+When JavaScript devs are asked to revue the code, they overreact and node their head angularily
+
+---
+
 Idempotency happens to Functions that sets values over 40 times. But the results are always the same, and you may be entitled to a financial compensation.
 
 ---
