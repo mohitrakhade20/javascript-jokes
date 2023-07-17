@@ -34,7 +34,6 @@ programmer : GET OUT!..
 
 ---
 
-
 q. Why was the JavaScript developer sad? a. Because they didn't Node how to Express himself
 
 ---
@@ -46,7 +45,6 @@ dev1 > What tool do you use to switch versions of node? dev1> nvm, I figured it 
 q. How do you comfort a JavaScript bug? a. You console it
 
 ---
-
 
 Two JavaScript variables are in a bar.
 "I'm sorry I cannot be with you, your so not my Type.", one says.
@@ -170,34 +168,33 @@ A: Because he didn't Node how to Express himself.
 ---
 
 Q. JavaScript is a lot like English;
-  No one knows how to use semicolons properly.
+No one knows how to use semicolons properly.
 
 ---
 
 Q. Why do JavaScripters wear glasses?
-   Because they don't C#
+Because they don't C#
 
 ---
 
 Q. Don't trust javascript programmers
-   All they do is promises but they never callback.
+All they do is promises but they never callback.
 
 ---
 
 Q. What's the difference between Java and JavaScript?
-   Java and JavaScript are similar in the same way car and carpet are.
+Java and JavaScript are similar in the same way car and carpet are.
 
- ---
+---
 
 Q. The three most well known languages in India are English, Hindi, and...
-   JavaScript
+JavaScript
 
 ---
 
 Q. You want to hear a javascript joke?
 
 A. I'll callback later.
-
 
 ---
 
@@ -206,17 +203,21 @@ Q: Why you should date a javascript developer?
 A: Because they always callback.
 
 ---
+
 Q.How did the programmer die in the shower?
 A. He read the shampoo bottle instructions: Lather. Rinse. Repeat.
 
 ---
+
 Q.Why do programmers always mix up Halloween and Christmas?
 A.Because Oct 31 equals Dec 25.
 
 ---
+
 Programming is like sex: One mistake and you have to support it for the rest of your life.
 
 ---
+
 ;
 
 ---
@@ -228,6 +229,7 @@ Programming is like sex: One mistake and you have to support it for the rest of 
 Want to hear a JavaScript joke? I'll callback later.
 
 ---
+
 One question on Reddit:
 Redditors that speak multiple languages, what languages do you speakin your dreams?
 A: JavaScript
@@ -236,14 +238,14 @@ Comment: He said dreams, not nightmares
 ---
 
 There are two type of people :
+
 ```javascript
 if (condition) {
-   Statement
+  Statement;
 }
 
-if (condition)
-{
-   Statement
+if (condition) {
+  Statement;
 }
 ```
 
@@ -251,6 +253,7 @@ if (condition)
 this is a javascript joke
 
 ---
+
 =======
 Q. What's 0.1+0.2 ?
 
@@ -272,4 +275,32 @@ Idempotency happens to Functions that sets values over 40 times. But the results
 
 ---
 
-[website]: https://www.instagram.com/coding_valley_/
+Person 1: Why do JavaScript developers prefer wearing glasses?
+Person 2: I don't know, why?
+Person 1: Because they don't want to miss any "NaN" errors!
+
+---
+
+Person 1: Can you help me with a JavaScript problem?
+Person 2: Of course! What's the issue?
+Person 1: I can't figure out how to escape from a callback hell!
+Person 2: Don't worry, you just need a "promise" of a better future!
+
+---
+
+Q. What did the React component say to its friend who was feeling down?
+A. "Don't worry, your state will change, and everything will render better!"
+
+---
+
+Q. How do React components apologize to each other?
+A. They say, "I'm sorry if I caused a 'render' in our relationship!"
+
+---
+
+Q. Why did the JavaScript framework go to therapy?
+A. It had too many dependencies and couldn't handle the separation anxiety!
+
+---
+
+[COding ]: https://www.instagram.com/coding_valley_/
