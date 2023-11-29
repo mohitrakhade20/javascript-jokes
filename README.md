@@ -264,6 +264,16 @@ A. Because light attracts bugs!
 
 ---
 
+Q. What did the redux farmer say to the other redux farmer when he came into his field?
+A. Dispatch is mine
+
+---
+
+Q. What is the object-oriented way to become wealthy?
+A. Inheritance
+
+---
+
 Idempotency happens to Functions that sets values over 40 times. But the results are always the same, and you may be entitled to a financial compensation.
 
 ---
