@@ -273,3 +273,23 @@ Idempotency happens to Functions that sets values over 40 times. But the results
 ---
 
 [website]: https://www.instagram.com/coding_valley_/
+
+---
+
+Javascript increases interactivity of web pages but decreases one with the society.
+(being a full time developer is tough)
+---
+Literally want an EVENT LOOP in my life that will make her CALLBACK me later. 
+---
+The fear of getting up late for work is my second fear, callback hell is still the first.
+---
+
+Q. Where is this function that you called?
+A.  Search it somewhere below.;-)
+---
+
+I have "Hoisted" many leaves at my work , maybe that is why i am "undefined" for the promotions.
+(try to have pun in hoisted and hosted)
+
+---
+
