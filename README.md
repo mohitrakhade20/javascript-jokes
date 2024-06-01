@@ -303,3 +303,8 @@ I have "Hoisted" many leaves at my work , maybe that is why i am "undefined" for
 
 ---
 
+Q: Why do JavaScript developers wear glasses?
+
+A: Because they don't C#!
+
+---
