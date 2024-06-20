@@ -34,6 +34,31 @@ programmer : GET OUT!..
 
 ---
 
+JS: Named and default imports are distinct syntaxes in JavaScript modules.
+
+CommonJS: 
+```js
+// config.js
+module.exports = {
+  DB_URL: process.env.DB_URL
+}
+
+// app.js
+const { DB_URL } = require('config') // ok
+```
+
+ES Modules:
+```js
+// config.js
+export default {
+  DB_URL: process.env.DB_URL
+}
+
+// app.js
+import { DB_URL } from 'config.js' // syntax error!
+```
+
+---
 
 q. Why was the JavaScript developer sad? a. Because they didn't Node how to Express himself
 
