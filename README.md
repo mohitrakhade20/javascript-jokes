@@ -34,6 +34,13 @@ programmer : GET OUT!..
 
 ---
 
+Programmer father to his son : start countincounting 
+son: 1,2,3,4,...
+
+& Now, son is in the orphanage!!
+
+---
+
 
 q. Why was the JavaScript developer sad? a. Because they didn't Node how to Express himself
 
