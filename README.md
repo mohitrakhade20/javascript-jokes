@@ -12,6 +12,12 @@
 
 ## Jokes
 
+Programmer: "Why was the JavaScript developer sad?"  
+JavaScript: "No idea, why?"  
+Programmer: "Because they didn’t *Node* how to *Express* themselves!"
+
+---
+
 Riddhi: I :heart: JavaScript.
 
 Mohit: But, **this** is horrible.
